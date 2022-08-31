@@ -1,6 +1,7 @@
 {
   "name": "tensorflow.js",
   "version": "0.1.0",
+  "homepage": "https://samlin1122.github.io/tensorflow.js",
   "private": true,
   "dependencies": {
     "@tensorflow-models/posenet": "^2.2.2",
