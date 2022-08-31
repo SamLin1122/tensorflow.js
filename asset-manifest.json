@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tensorflow.js/static/css/main.073c9b0a.css",
+    "main.js": "/tensorflow.js/static/js/main.aac02f60.js",
+    "static/js/787.c2ae0d99.chunk.js": "/tensorflow.js/static/js/787.c2ae0d99.chunk.js",
+    "index.html": "/tensorflow.js/index.html",
+    "main.073c9b0a.css.map": "/tensorflow.js/static/css/main.073c9b0a.css.map",
+    "main.aac02f60.js.map": "/tensorflow.js/static/js/main.aac02f60.js.map",
+    "787.c2ae0d99.chunk.js.map": "/tensorflow.js/static/js/787.c2ae0d99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aac02f60.js"
+  ]
+}
